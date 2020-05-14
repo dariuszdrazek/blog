@@ -7,7 +7,7 @@ const Contact = () => {
     <Layout>
       <Head pageTitle="Contact" />
       <h1>Contact</h1>
-      <p>Links to social media</p>
+      <p>The FB site</p>
       <p>
         <a
           href="https://www.facebook.com/dariusz.drazek.5"
